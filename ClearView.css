@@ -1,0 +1,55 @@
+/* Cool & Unique Masculine Theme */
+/* Designed by ChatGPT */
+
+/* Accent Colors */
+:root {
+  --main-color: #3e3e3e; /* Main accent color (charcoal) */
+  --hover-color: #0066cc; /* Hover accent color (dark blue) */
+  --success-color: #00cc66; /* Success accent color (green) */
+  --danger-color: #ff5050; /* Danger accent color (red) */
+  --url-color: #ff9933; /* URL link color (orange) */
+
+  /* Status Colors */
+  --online-color: #00cc66; /* Online status color (green) */
+  --idle-color: #ffcc00; /* Idle status color (yellow) */
+  --dnd-color: #ff5050; /* Do Not Disturb status color (red) */
+  --streaming-color: #9900cc; /* Streaming status color (purple) */
+  --offline-color: #808080; /* Offline/Invisible status color (gray) */
+
+  /* Fonts */
+  --main-font: 'Roboto', sans-serif; /* Main font for app (Roboto) */
+  --code-font: 'Fira Code', monospace; /* Font for codeblocks (Fira Code) */
+
+  /* Text Colors */
+  --text-normal: #ffffff; /* Color of default Discord text (white) */
+  --text-muted: #999999; /* Color of muted text (light gray) */
+
+  /* Channel and Member List Widths */
+  --channels-width: 240px; /* Channel list width */
+  --members-width: 220px; /* Member list width */
+
+  /* App Background */
+  --background-overlay: rgba(0, 0, 0, 0.5); /* App background overlay color */
+  --background-image: url('https://example.com/background-image.jpg'); /* App background image */
+  --background-size: cover; /* App background size */
+  --background-repeat: no-repeat; /* App background repeat */
+  --background-blur: 10px; /* App background blur */
+
+  /* Channel Colors */
+  --channel-unread: #0066cc; /* Unread server channel color */
+  --channel-color: rgba(255, 255, 255, 0.2); /* Read server channel color */
+  --channel-text-selected: #ffffff; /* Selected channel text color */
+  --muted-color: rgba(255, 255, 255, 0.1); /* Muted channel color */
+
+  /* Modal Backdrop */
+  --backdrop-overlay: rgba(0, 0, 0, 0.8); /* Modal backdrop overlay color */
+
+  /* Home Button Icon */
+  --home-icon: url('https://example.com/home-icon.svg'); /* Home button icon */
+
+  /* User Popout Background */
+  --user-popout-blur: 8px; /* User popout background blur */
+}
+
+/* Additional Customizations */
+/* Add your own custom CSS rules here */
