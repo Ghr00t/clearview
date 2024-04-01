@@ -1,27 +1,27 @@
-/* Cool & Unique Masculine Theme */
+/* Girly Feminine Theme */
 /* Designed by ChatGPT */
 
 /* Accent Colors */
 :root {
-  --main-color: #3e3e3e; /* Main accent color (charcoal) */
-  --hover-color: #0066cc; /* Hover accent color (dark blue) */
-  --success-color: #00cc66; /* Success accent color (green) */
-  --danger-color: #ff5050; /* Danger accent color (red) */
-  --url-color: #ff9933; /* URL link color (orange) */
+  --main-color: #ff66cc; /* Main accent color (pink) */
+  --hover-color: #ff3399; /* Hover accent color (magenta) */
+  --success-color: #33ccff; /* Success accent color (light blue) */
+  --danger-color: #ff3333; /* Danger accent color (red) */
+  --url-color: #ff66cc; /* URL link color (pink) */
 
   /* Status Colors */
-  --online-color: #00cc66; /* Online status color (green) */
+  --online-color: #33cc33; /* Online status color (green) */
   --idle-color: #ffcc00; /* Idle status color (yellow) */
-  --dnd-color: #ff5050; /* Do Not Disturb status color (red) */
-  --streaming-color: #9900cc; /* Streaming status color (purple) */
+  --dnd-color: #ff6666; /* Do Not Disturb status color (pink) */
+  --streaming-color: #cc99ff; /* Streaming status color (lavender) */
   --offline-color: #808080; /* Offline/Invisible status color (gray) */
 
   /* Fonts */
-  --main-font: 'Roboto', sans-serif; /* Main font for app (Roboto) */
-  --code-font: 'Fira Code', monospace; /* Font for codeblocks (Fira Code) */
+  --main-font: 'Helvetica Neue', Arial, sans-serif; /* Main font for app (Helvetica Neue) */
+  --code-font: 'Courier New', Courier, monospace; /* Font for codeblocks (Courier New) */
 
   /* Text Colors */
-  --text-normal: #ffffff; /* Color of default Discord text (white) */
+  --text-normal: #333333; /* Color of default Discord text (dark gray) */
   --text-muted: #999999; /* Color of muted text (light gray) */
 
   /* Channel and Member List Widths */
@@ -29,20 +29,20 @@
   --members-width: 220px; /* Member list width */
 
   /* App Background */
-  --background-overlay: rgba(0, 0, 0, 0.5); /* App background overlay color */
-  --background-image: url('https://example.com/background-image.jpg'); /* App background image */
+  --background-overlay: rgba(255, 192, 203, 0.5); /* App background overlay color */
+  --background-image: url('https://wallpapercave.com/cool-girly-computer-wallpapers'); /* App background image */
   --background-size: cover; /* App background size */
   --background-repeat: no-repeat; /* App background repeat */
   --background-blur: 10px; /* App background blur */
 
   /* Channel Colors */
-  --channel-unread: #0066cc; /* Unread server channel color */
+  --channel-unread: #ff66cc; /* Unread server channel color */
   --channel-color: rgba(255, 255, 255, 0.2); /* Read server channel color */
-  --channel-text-selected: #ffffff; /* Selected channel text color */
-  --muted-color: rgba(255, 255, 255, 0.1); /* Muted channel color */
+  --channel-text-selected: #333333; /* Selected channel text color */
+  --muted-color: rgba(255, 192, 203, 0.1); /* Muted channel color */
 
   /* Modal Backdrop */
-  --backdrop-overlay: rgba(0, 0, 0, 0.8); /* Modal backdrop overlay color */
+  --backdrop-overlay: rgba(255, 192, 203, 0.8); /* Modal backdrop overlay color */
 
   /* Home Button Icon */
   --home-icon: url('https://example.com/home-icon.svg'); /* Home button icon */
